@@ -1,8 +1,8 @@
 # Hi there, I'm Mahsa Fateh 👋
 
-**React Native Mobile Developer | Stockholm, Sweden**
+**Javascript Developer | Stockholm, Sweden**
 
-I’m a passionate React Developer specializing in **interactive web and mobile applications** using **React.js**, **React Native**, **Next.js**, **JavaScript**, and **TypeScript**. I focus on writing **clean, maintainable code**, collaborating effectively in **Agile environments**, and **optimizing performance**.
+I’m a passionate Javascript Developer specializing in **interactive web and mobile applications** using **React.js**, **React Native**, **Next.js**, **JavaScript**, and **TypeScript**. I focus on writing **clean, maintainable code**, collaborating effectively in **Agile environments**, and **optimizing performance**.
 
 ---
 
